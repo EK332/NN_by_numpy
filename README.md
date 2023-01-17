@@ -6,9 +6,7 @@
 
 2.环境安装
 ======================
-pip install matplotlib
-
-pip install numpy
+pip install -r requirement.txt
 
 3.训练与测试
 ======================
