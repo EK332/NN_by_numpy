@@ -329,4 +329,4 @@ if __name__ == '__main__':
     model.train(x_train, t_train, x_test, t_test)
     # predict
     # out = model.predict(x_test[:3])
-    print('end.')
+    print('end1')
